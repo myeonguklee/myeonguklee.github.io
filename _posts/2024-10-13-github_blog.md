@@ -7,9 +7,9 @@ typora-root-url: ../
 
 # 깃 허브 블로그
 
-미루고 미루던 깃허브 블로그를 만들어 보았다. 여러 블로그를 참고해보았지만, A to Z 까지의 과정이 없는 느낌이라 이곳 저곳을 돌아다닌 후 '테디노트'님의 '깃헙(GitHub) 블로그 10분안에 완성하기' 영상을 참고하였다. https://youtu.be/ACzFIAOsfpM?si=2FlYV7IyHBXz2S5f
+미루고 미루던 깃허브 블로그를 만들어 보았다. 여러 블로그를 참고해보았지만, A to Z 까지의 과정이 없는 느낌이라 이곳 저곳을 돌아다닌 후 '테디노트'님의 '깃헙(GitHub) 블로그 10분안에 완성하기' 영상을 참고하였다. (https://youtu.be/ACzFIAOsfpM?si=2FlYV7IyHBXz2S5f)
 
-1. 먼저 https://github.com/topics/jekyll-theme 여기서 마음에 드는 테마를 찾은 후 자신의 레포지토리로 Fork 한다. (Star 옆에 있음)
+1. 먼저 (https://github.com/topics/jekyll-theme) 여기서 마음에 드는 테마를 찾은 후 자신의 레포지토리로 Fork 한다. (Star 옆에 있음)
 
 ![jekyll-theme](/images/2024-10-13-github_blog/jekyll-theme-8817056.png)
 
@@ -31,9 +31,9 @@ typora-root-url: ../
 
 - Name your file.. 에 _posts/{연도-월-일-파일이름} 적기
 
- - layout: single <br>title: "포스팅 제목" 
+- layout: single <br>title: "포스팅 제목" 
 
- - 위와 같이 적어주고 본문 적기
+- 위와 같이 적어주고 본문 적기
 
    ![post](/images/2024-10-13-github_blog/post.png)
 
@@ -45,26 +45,26 @@ typora-root-url: ../
 
 
 
-+마크다운 문서 편집기 - typora 에디터: https://typora.io/
-
-예전(베타 버전)에는 무료였으니 지금은 15일 무료 후 1회성 결제 필요(15 달러), 아마 좀 더 사용해보고 결제하지 않을까 싶다.
+마크다운 문서 편집기 - typora 에디터: https://typora.io/
+  예전(베타 버전)에는 무료였으니 지금은 15일 무료 후 1회성 결제 필요(15 달러), 아마 좀 더 사용해보고 결제하지 않을까 싶다.
 
 
 
 참고하면 좋을 사이트
 
-https://jekyllrb.com/docs/posts/ (jekyll docs)
+(https://jekyllrb.com/docs/posts/) [jekyll docs]
 
-https://github.com/topics/jekyll-theme (jekyll 테마 리스트)
+(https://github.com/topics/jekyll-theme) [jekyll 테마 리스트]
 
-https://mmistakes.github.io/minimal-mistakes/docs/configuration/ (제일 유명한 테마의 docs)
 
-https://teddylee777.github.io/jekyll/Jekyll-%EC%82%AC%EC%9A%A9%EC%9D%84-%EC%9C%84%ED%95%9C-markdown-%EB%AC%B8%EB%B2%95/#google_vignette (테디노트 님의 마크다운 문법) - 마크다운 문법은 매번 까먹어 ㅜ
+(https://mmistakes.github.io/minimal-mistakes/docs/configuration/) [제일 유명한 테마의 docs]
 
-https://peterica.tistory.com/545 (Typora 이미지 업로드 방법)
+(https://teddylee777.github.io/jekyll/Jekyll-%EC%82%AC%EC%9A%A9%EC%9D%84-%EC%9C%84%ED%95%9C-markdown-%EB%AC%B8%EB%B2%95/#google_vignette) [테디노트 님의 마크다운 문법] - 마크다운 문법은 매번 까먹어 ㅜ
+
+(https://peterica.tistory.com/545) [Typora 이미지 업로드 방법]
 
 
 
 출처
 
-https://youtu.be/ACzFIAOsfpM?si=jpIlmTTMh-7RJ8XJ (테디노트님의 깃헙(GitHub)블로그 10분안에 완성하기 영상)
+(https://youtu.be/ACzFIAOsfpM?si=jpIlmTTMh-7RJ8XJ) [테디노트님의 깃헙(GitHub)블로그 10분안에 완성하기 영상]
