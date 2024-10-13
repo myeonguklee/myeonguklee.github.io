@@ -12,35 +12,35 @@ typora-root-url: ../
 
 ### 1번, 먼저 [jekyll 테마 리스트](https://github.com/topics/jekyll-theme) 여기서 마음에 드는 테마를 찾은 후 자신의 레포지토리로 Fork 한다. (Star 옆에 있음)
 
-  ![jekyll-theme](/images/2024-10-13-github_blog/jekyll-theme-8817056.png)
+  <img src="/images/2024-10-13-github_blog/jekyll-theme-8817056.png" alt="jekyll-theme" style="zoom:150%;" />
 
 
 ### 2번, 레포지토리 이름을 자신의 유저네임.github.io 로 설정한다. ex) myeonguklee.github.io
 
-   ![Fork-name](/images/2024-10-13-github_blog/Fork-name-8817201.png)
+   <img src="/images/2024-10-13-github_blog/Fork-name-8817201.png" alt="Fork-name" style="zoom:150%;" />
 
    * 잘못 적었어도 괜찮다. settings에 가서 rename을 해주면 된다. 나도 t 빼먹었다.
 
-     ![Rename](/images/2024-10-13-github_blog/Rename.png)
+     <img src="/images/2024-10-13-github_blog/Rename.png" alt="Rename" style="zoom:150%;" />
 
 
 ### 3번, _config.yml 파일에서 25번째 줄의 url을 수정 (레포지토리 메인에 있는 _config.yml, 오른쪽 상단에 Raw 오른쪽에 있는 연필 모양 클릭! 수정 후 commit chages... 클릭)
 
-  ![config-url_edit](/images/2024-10-13-github_blog/config-url_edit.png)
+  <img src="/images/2024-10-13-github_blog/config-url_edit.png" alt="config-url_edit" style="zoom:150%;" />
 
 
 ### 4번, 새로운 글 작성
 
-   ![create](/images/2024-10-13-github_blog/create.png)
+   <img src="/images/2024-10-13-github_blog/create.png" alt="create" style="zoom:150%;" />
 
   * Name your file.. 에 _posts/{연도-월-일-파일이름} 적기
   *  layout: single <br>title: "포스팅 제목" 
   * 위와 같이 적어주고 본문 적기
-    ![post](/images/2024-10-13-github_blog/post.png)
+    <img src="/images/2024-10-13-github_blog/post.png" alt="post" style="zoom:150%;" />
   * (초록색의) Commit changes... 누르기
 
 ### 5번, {username}.github.io 주소 입력 후 첫 포스팅 확인하기 (업로드 되는데 짧게는 30초 정도 걸리니 조금 기다리기)
-   ![github-blog](/images/2024-10-13-github_blog/github-blog.png)
+   <img src="/images/2024-10-13-github_blog/github-blog.png" alt="github-blog" style="zoom:150%;" />
 
 
 마크다운 문서 편집기 - [tpora 에디터](https://typora.io/)
