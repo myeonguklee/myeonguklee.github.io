@@ -93,6 +93,7 @@ d(); // 에러 !
 
 
 **함수 선언문은 전체를 호이스팅!, 함수 표현식은 변수 선언부만 호이스팅!**
+
 ```javascript
 console.log(sum(1, 2))
 console.log(multiply(3, 4))
@@ -108,6 +109,7 @@ var multiply = function (a, b) {
 }
 ```
 - 호이스팅 마친 상태
+
 ```javascript
 // 함수 선언문은 전체를 호이스팅
 function sum (a, b) {

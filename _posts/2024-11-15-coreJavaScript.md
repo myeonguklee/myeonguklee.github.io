@@ -49,7 +49,7 @@ typora-root-url: ../
     - 참조형 데이터의 경우 그 내부의 프로퍼티들을 복사(재귀적으로 복사를 해야 함)
     - 객체를 JSON 문법으로 표현된 문자열로 전환했다가 다시 JSON 객체로 바꾸기
 
-    ~~~
+    ~~~javascript
     // 재귀적으로 복사
     function copyObjectDeep (target) {
         let result = {};
