@@ -136,3 +136,11 @@ multiply = function (a, b) {
 1.함수 선언식은 전체가 호이스팅 되기 때문에 함수를 선언하기 전에 사용할 수도 있고
 
 2.만약 전역 공간에 이름이 같은 함수가 여러 개일 경우 먼저 선언된 함수를 덮어써버릴 수 있다.
+
+
+## 정리
+- Variable Environment
+- Lexical Environment
+  - environmentRecord: 현재문맥의 식별자(hoisting)
+  - outerEnvironmentReference: 외부 식별자(scope chain)
+- this
