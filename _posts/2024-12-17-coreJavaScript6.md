@@ -21,7 +21,7 @@ var instance = new Constructor();
 
 *\_\_proto__ 생략 가능, 읽을 때는 'dunder proto'('던더 프로토')
 
-**배열 리터럴과 Array의 관계
+**배열 리터럴과 Array의 관계**
 
 ![Array](/images/2024-12-17-coreJavaScript6/image2.png)
 
