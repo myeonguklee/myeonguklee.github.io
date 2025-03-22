@@ -21,7 +21,7 @@ title                    : "Myeong Uk | 기술 블로그"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Myeong Uk"
-description              : "프론트 엔드 개발 지망생의 기술 블로그입니다."
+description              : "프론트 엔드 개발 기술 블로그입니다."
 url                      : "https://myeonguklee.github.io" # the base hostname & protocol for your site
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Myeong Uk Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "기술 블로그 입니다."
+  bio              : "블로그 이전 합니다! <a href='https://myeonguk.netlify.app/'>새로운 블로그 이동하기</a>"
   location         : "South Korea"
   email            : "muk525@icloud.com"
   links:
